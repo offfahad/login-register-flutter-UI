@@ -1,16 +1,6 @@
-# shoplift
+# Login And Register Pages
 
-A new Flutter project.
+## UI
 
-## Getting Started
+https://user-images.githubusercontent.com/19569802/230168785-97aa27fe-4aec-47a9-b792-ebc329703150.mp4
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
