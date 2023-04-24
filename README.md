@@ -5,5 +5,5 @@
 Flutter allows you to build beautiful native apps on iOS and Android Platforms from a single codebase. The main goal of this repository is to find free open source apps and start contributing to it. Feel free to contribute to the list, any suggestions are always welcomed!
 
 
-https://user-images.githubusercontent.com/19569802/230168785-97aa27fe-4aec-47a9-b792-ebc329703150.mp4
+![ezgif com-optimize](https://user-images.githubusercontent.com/19569802/234066552-4555afb2-404e-4229-aa6f-32c701c5dfff.gif)
 
